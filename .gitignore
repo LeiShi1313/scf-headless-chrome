@@ -102,3 +102,11 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Python dependencies
+selenium/
+selenium-*/
+
+# Serverless
+.serverless/
+.env_temp
