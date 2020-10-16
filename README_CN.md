@@ -7,10 +7,10 @@
 
 ## 如何运行
 
-首先，安装好[Git LFS](https://git-lfs.github.com/)
 ```
 git clone https://github.com/LeiShi1313/scf-headless-chrome.git
 cd scf-headless-chrome
+https://github.com/LeiShi1313/scf-headless-chrome/releases/download/v1.0.0/headless-chromium-tencent
 npm install
 pip install -r requirements.txt -t .
 sls deploy
